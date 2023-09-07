@@ -27,7 +27,8 @@
     "express-validator": "^6.15.0",
     "fetch": "^1.1.0",
     "helmet": "^6.0.1",
-    "mongoose": "^7.0.0",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
     "mongoose-type-url": "^2.1.0",
     "morgan": "^1.10.0"
   },
